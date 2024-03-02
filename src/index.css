@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    background-color:lightblue;
+}
+
+.shadow{
+    box-shadow: 28px 18px 124px 120px rgba(50,166,201,0.57);
+-webkit-box-shadow: 28px 18px 124px 120px rgba(50,166,201,0.57);
+-moz-box-shadow: 28px 18px 124px 120px rgba(50,166,201,0.57);
+}
